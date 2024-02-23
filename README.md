@@ -1,5 +1,5 @@
 # README 
-# MARIN MARIUS DANIEL 332CC
+##### MARIN MARIUS DANIEL 332CC
 ## [Tema1 - APD](https://gitlab.cs.pub.ro/apd/tema1)
 
 ### Ideea de baza
